@@ -19,7 +19,7 @@ You can find the project repository [here](https://github.com/TienTran2706/Seatt
 
 ## Blog post
 
-You can find the blog post [here]((https://github.com/TienTran2706/Seattle-Airbnb-data/blob/main/Seattle%20Airbnb%20blog%20post.pdf))
+You can find the blog post [here](https://github.com/TienTran2706/Seattle-Airbnb-data/blob/main/Seattle%20Airbnb%20blog%20post.pdf)
 
 ## Acknowledgements
 
