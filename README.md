@@ -13,6 +13,10 @@ This repository contains data and analyses related to Airbnb listings in Seattle
   - `Seattle_Airbnb_Analysis.ipynb`: Analyzes the dataset, performs data cleaning, and generates visualizations.
 - `report/`: Blog post result
 
+## Github Repository
+
+You can find the project repository [here](https://github.com/TienTran2706/Seattle-Airbnb-data)
+
 ## Acknowledgements
 
 - Data provided by Airbnb.
